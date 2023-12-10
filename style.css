@@ -1,0 +1,90 @@
+      body{
+
+        font-family: 'Lato', sans-serif;
+
+      }
+
+       .box { 
+
+        background-color: rgb(1, 94, 170);
+        width:1000px;
+        border-radius: 30px;
+        padding: 30px 50px;
+        box-sizing: border-box;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        }
+
+        .aboutbox{
+            background-color: rgb(101, 112, 40);
+            width:1000px;
+            border-radius: 30px;
+            padding: 50px 50px;
+            box-sizing: border-box;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+
+        }
+
+        h1 {
+            font-size: 30px;
+            color: white;
+            font-family: 'Mina', sans-serif;
+        }
+        p{
+           font-size: 20px; 
+           color: white;
+        }
+        .nav{
+          color: white;
+          font-size: 20 px;
+          text-decoration:none;
+          font-weight: 500;
+          border-width: 1px;
+          border-style: solid;
+          border-radius: 5px;
+          padding: 5px 10px;
+          }
+    
+
+          .Galery{color: white;
+            font-size: 20 px;
+            text-decoration:none;
+            font-weight: 500;
+            border-width: 1px;
+            border-style: solid;
+            border-radius: 5px;
+            padding: 5px 10px;
+
+         }
+         .Galery:hover{
+            background-color: rgb(4, 48, 85);
+         }
+          .social{ 
+            list-style: none;
+            padding: 0%;
+             margin: 40px 0px;
+             display: flex;
+            justify-content:center ;
+            gap: 10px;
+          }
+
+          .social li {
+
+          }
+          .social li a {
+            color: white;
+            font-size: 20px;
+            text-decoration: none;
+            border: 1px solid;
+            padding: 10px;
+            border-radius: 10px;
+          }
+          .social li a:hover{
+            background-color: rgb(54, 61, 14);
+
+          }
+        
+  
